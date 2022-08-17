@@ -1,0 +1,4 @@
+#Tue Aug 09 14:38:19 TRT 2022
+base.0=D\:\\peilabs\\student_flutter\\go_restful_api_demo_students\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
